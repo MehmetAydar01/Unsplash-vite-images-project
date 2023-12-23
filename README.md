@@ -1,4 +1,4 @@
-- **Project Link - [Unsplash Project](https://unsplash-temp-vite-images.netlify.app/)**
+- **Project Link - [Unsplash Project](https://unsplash-vite-images-project.netlify.app/)**
 
 ## Figma URL
 
